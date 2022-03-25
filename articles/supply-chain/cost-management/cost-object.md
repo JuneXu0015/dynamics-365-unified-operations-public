@@ -56,7 +56,7 @@ The following table shows what is a cost object and what is an inventory object.
 | Inventory object | x           | x    |  x        | x         |
 
 ## Accumulation of costs and quantities
--   The value in the **Value** fieldis a sum of the following values:
+-   The value in the **Value** field a sum of the following values:
     -   Physical cost amount
     -   Financial cost amount
     -   Adjustments
